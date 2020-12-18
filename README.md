@@ -1,5 +1,5 @@
 # CSS_Practice
-Practice website layout using CSS Flexbox. Used the following resources: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Practice website layout using CSS Flexbox, CSS3 for border shadow and hover effect for images
 ## Website layout screenshot
 ![](CSS_files/image1.png)
 
